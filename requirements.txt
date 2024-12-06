@@ -1,0 +1,19 @@
+google-generativeai
+spacy # Name entity recognition
+streamlit
+nltk
+wordcloud
+python-dotenv
+pymupdf
+beautifulsoup4
+requests
+
+
+-e .
+
+
+
+
+
+
+
